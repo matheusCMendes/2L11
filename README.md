@@ -2,13 +2,13 @@
 
 #Projeto do Semestre
 
-Dupla:
+Dupla: Giovanni Vicário, Matheus Mendes
 
-Tema do site:
+Tema do site: Star Wars
 
-Público-alvo:
+Público-alvo: Fãns de Star Wars
 
-Funcionalidades:
+Funcionalidades:Vender Sabres de Luz, e explicar a respeito.
 
 Mapa do Site:
 
