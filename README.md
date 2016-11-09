@@ -11,6 +11,6 @@ Público-alvo: Fãns de Star Wars
 Funcionalidades:Vender Sabres de Luz, e explicar a respeito.
 
 Mapa do Site:
-![alt tag](https://github.com/giovannigv/2L11/edit/master/mapa do site.png)
+![Mapa do site](https://github.com/giovannigv/2L11/edit/master/mapasite.png)
 
 Wireframe:
